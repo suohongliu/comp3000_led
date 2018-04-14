@@ -9,7 +9,7 @@ compile and run
         sudo insmod key.ko
   
   
-rmmove this module
+remove this module
 
         sudo rmmod key
   
