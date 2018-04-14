@@ -2,10 +2,15 @@
 A simple project to turn on/off the led of ps/2 keyboard
 This is a Linux kernel module project.
 
-compile and run:
-  make
-  sudo insmod key.ko
+compile and run
+
+        make
+  
+        sudo insmod key.ko
+  
   
 rmmove this module
-  sudo rmmod key
-  make clean
+
+        sudo rmmod key
+  
+        make clean
